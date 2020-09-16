@@ -1,0 +1,3 @@
+Your solution at 'E:\vsprojects\WPFTest' will be bound to 'http://202.114.103.253:3690/svn/WPF/WPFTest'.
+
+All files included in the solution will be added to Subversion.
